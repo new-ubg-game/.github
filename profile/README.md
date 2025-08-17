@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1><a href="https://lesson-3.guru">CLICK PLAY GAME</h1>
+<h1><a href="https://lesson-5.guru">CLICK PLAY GAME</h1>
 <HR>---
 <H1><a href="https://subjectnotes.website/">CLICK 2 PLAY </a></H1>
 <HR>---

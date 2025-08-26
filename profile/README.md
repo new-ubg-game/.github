@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<h1><a href="https://lesson-5.guru">CLICK PLAY GAME</h1>
+<h1><a href="https://k12guru.nl">CLICK PLAY GAME</h1>
 <HR>---
 <H1><a href="https://subjectnotes.website/">CLICK 2 PLAY </a></H1>
-<HR>---
+<HR>
 
+<a href="https://k12guru.nl"><img src="https://1lesson1.email/gamez.png"></a>
 
 
 
@@ -26,5 +27,5 @@ Of course, it’s not perfect. Some games are super simple, and if you’re look
 
 For me, **Unblocked Games 76** isn’t just a website – it’s a lifeline during boring days. It’s a reminder that even in the middle of the most tedious class or endless meeting, I can still have a bit of adventure at my fingertips. So if you’re ever feeling trapped in routine, open a new tab, head to Unblocked Games 76, and lose yourself for a while.
 
----
+
 
